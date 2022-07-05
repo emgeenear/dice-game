@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\demo.cpp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}

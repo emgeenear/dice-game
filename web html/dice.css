@@ -1,0 +1,50 @@
+h1{
+    background-color: burlywood;
+    font-size: 4em;
+    text-align-last: center;
+}
+.ravi{
+    background-color: rgb(253, 245, 14);
+}
+
+.img1{
+    margin-left: 680px;
+   object-position: center;
+   align-items: center;
+    background-color: rgb(146, 44, 241);
+}
+.img2{
+    margin-left: 680px;
+   object-position: center;
+   align-items: center;
+    background-color: rgb(146, 44, 241);
+}
+
+.drum{
+    margin:  20px;
+    padding: 10px;
+    height: 130px;
+    width: 10%;
+    align-items: center;
+    background-color: cyan;
+    font-size: 2em;
+    font-family: fantasy;
+    color: rgb(236, 36, 10);
+    border-radius: 5px;
+}
+.set{
+   
+    margin: 3em;
+  
+}
+.gif{ margin: 20px;
+    background-image: url("dji.jfif");
+   
+
+}
+.bc{
+   background-image: url("dj2.gif");
+}
+.drum:hover{
+background-color: rgb(200, 221, 12);
+}
